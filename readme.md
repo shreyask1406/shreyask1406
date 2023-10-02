@@ -42,7 +42,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mySQL&logoColor=61DAFB)
 ![Tableau](https://img.shields.io/badge/Tableau-563D7C?style=for-the-badge&logo=tableau&logoColor=white)
 ![R](https://img.shields.io/badge/R-3C873A?style=for-the-badge&labelColor=black&logo=R&logoColor=3C873A)
-![AWS](https://img.shields.io/badge/-AWS-FF4154?style=for-the-badge&logo=AWS&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-61DBFB?style=for-the-badge&labelColor=black&logo=PostgreSQL&logoColor=61DBFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Talend](https://img.shields.io/badge/Talend-E34F26?style=for-the-badge&logo=Talend&logoColor=white)
